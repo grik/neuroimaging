@@ -1,6 +1,4 @@
 #!/bin/bash
-shopt -s expand_aliases
-source ~/.fsl_inte 
 
 mkdir atlas
 
